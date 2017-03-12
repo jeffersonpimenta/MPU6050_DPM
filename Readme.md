@@ -1,0 +1,1 @@
+A version of MPU6050 library from Jeff Rowberg (https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050) working in a atmega328 board, some modifications made
